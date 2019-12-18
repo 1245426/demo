@@ -2,7 +2,7 @@
 this is my new repo
 
 
--point1
+--point1
 
 -point2
 
